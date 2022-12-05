@@ -1,4 +1,4 @@
-# Scifact Open
+# Scifact-Open
 
 This repository contains data and analysis code for the paper [SciFact-Open: Towards open-domain scientific claim verification](https://arxiv.org/abs/2210.13777).
 
