@@ -23,7 +23,7 @@ pip install -r requirements.txt                 # Install dependencies
 
 To get the data, run `bash script/get_data.sh` from the root of this directory. The script will download the data and populate two folders: `data` contains the annotations for SciFact-Open, and `prediction` contains model predictions for all models used for dataset creation and evaluation. More details on specific files in [data.md](doc/data.md) and [prediction.md](doc/prediction.md).
 
-You can also download the tarball directly fro Google Drive by clicking [here](https://drive.google.com/uc?export=download&id=1sz-9hJTVex8h_jm_NPjXfmTrhi_8Sz-U) (I'll try to get the dataset up on Hugging Face datasets soon).
+You can also download the tarball directly fro Google Drive by clicking [here](https://drive.google.com/uc?export=download&id=1sz-9hJTVex8h_jm_NPjXfmTrhi_8Sz-U).
 
 ## Reproducing paper metrics
 
