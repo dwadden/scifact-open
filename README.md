@@ -33,4 +33,4 @@ To reproduce the main results reported in Table 5 in the paper, run `python scri
 
 - **Claim revisions**: I will shortly upload examples of *claim revisions* which resolve ambiguity in cases of "claim / evidence specificity mismatch"; see p. 5 of the paper for more details.
 
-- **Model predictions**: I'll post code to make predictions using at least the two MultiVerS models [MultiVerS](https://github.com/dwadden/multivers) models.
+- **Model predictions**: I'll post code to make predictions using at least the two [MultiVerS](https://github.com/dwadden/multivers) models.
